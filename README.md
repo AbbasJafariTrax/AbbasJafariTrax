@@ -2,6 +2,17 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abbas-jafari-1355531b5">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/10292408/abbas-jafari">
+    <img src="https://img.shields.io/badge/StackOverFlow-grey?logo=stackoverflow&logoColor=yellow&style=for-the-badge" alt="Stackoverflow Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=AbbasJafariTrax&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋
 
 <!--
