@@ -46,7 +46,7 @@
 
 - :zap: In my free time, I work on Flutter (projects and packages), python (projects), play Dota2, and reading book.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-jafari-1355531b5/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-jafari-1355531b5/)
   
 
 
