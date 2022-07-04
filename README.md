@@ -10,6 +10,7 @@
     </a>
   </div>
 
+
   <img src="https://komarev.com/ghpvc/?username=AbbasJafariTrax&style=flat-square&color=blue" alt=""/>
 
   <h1>
@@ -86,11 +87,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbbasJafariTrax&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasJafariTrax&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
