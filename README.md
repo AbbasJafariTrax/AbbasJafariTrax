@@ -1,15 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/abbas-jafari-1355531b5">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/10292408/abbas-jafari">
-      <img src="https://img.shields.io/badge/StackOverFlow-grey?logo=stackoverflow&logoColor=yellow&style=for-the-badge" alt="Stackoverflow Badge"/>
-    </a>
-  </div>
-
 
   <img src="https://komarev.com/ghpvc/?username=AbbasJafariTrax&style=flat-square&color=blue" alt=""/>
 
@@ -29,7 +19,7 @@
 
   ### :man_technologist: About Me :
   
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Afghanistan.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   
 - :telescope: I’m working as a Software Engineer and contributing to mobile and python appllications.
 
@@ -46,8 +36,6 @@
 - ⚡ Fun fact: I love programming
 
 - :zap: In my free time, I work on Flutter (projects and packages), python (projects), play Dota2, and reading book.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-jafari-1355531b5/)
   
 ---
 
